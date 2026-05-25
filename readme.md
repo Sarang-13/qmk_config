@@ -7,6 +7,7 @@
 * Keyboard Maintainer: [Sarang](https://github.com/Sarang-13)
 * Hardware Supported: *RP2040 Zero, EC11*
 * Hardware Availability: *Links to where you can find this hardware*
+* Added VIAL support
 
 Make example for this keyboard (after setting up your build environment):
 
